@@ -7,7 +7,7 @@ const App = () => {
   const initialBoard = [
     ['blue', 'blue', 'blue', 'pink', 'pink'],
     ['pink', 'pink', 'blue', 'pink', 'pink'],
-    ['blue', 'pink', 'pink', 'pink', 'blue'],
+    ['blue', 'pink', 'pink', 'pink', 'pink'],
     ['blue', 'blue', 'blue', 'blue', 'blue'],
     ['pink', 'pink', 'blue', 'pink', 'pink']
   ];
